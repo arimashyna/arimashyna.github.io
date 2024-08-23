@@ -2,7 +2,7 @@
 
 Welcome to **Stretching for Health and Flexibility**! Our course is designed to help you achieve greater flexibility, reduce muscle tension, and enhance overall well-being. Whether you’re a beginner or an experienced stretcher, this course has something for you.
 
-![Stretching Banner](Stretching Banner.jpg)
+![Stretching Banner](images/Stretching%20Banner.jpg)
 
 ## Why Stretch?
 
